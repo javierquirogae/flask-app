@@ -1,0 +1,33 @@
+.game{
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(12, 13, 39);
+    color:rgb(147, 172, 228)
+  }
+
+  h1{
+    margin-left: 23px;
+    font-weight: 100;
+  }
+
+  p, form{
+    margin-left: 23px;
+  }
+  .score{
+    color: red;
+  }
+  .timer{
+    color: rgb(255, 251, 0);
+  }
+  .selected{
+    background-color: rgb(6, 4, 18);
+    border-radius: 50%;
+  }
+
+ 
